@@ -32,7 +32,7 @@ def keyfunc():
 # ラップ処理部分
 #
 import time
-expfile_path = '/home/ringo/py/monokon/union/expect.txt'
+expfile_path = '~/py/monokon/union/expect.txt'
 
 def timerfunc():
 	global count
