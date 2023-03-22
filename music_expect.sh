@@ -7,7 +7,7 @@ python3.6 key.py &
 expect -c "
 set timeout -1
 set OUTFILE_PATH \"expect.txt\"
-spawn vlc -I rc /home/ringo/音楽/
+spawn vlc -I rc ~/音楽/
 sleep 1
 send \n
 
